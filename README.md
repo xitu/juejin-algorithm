@@ -6,7 +6,7 @@
 
 ## What is juejin-algorithm？
 
-juejin-algorithm 是稀土掘金（[juejin.cn](https://juejin.cn/)）发起的算法
+juejin-algorithm 是稀土掘金（[juejin.cn](https://juejin.cn/)）发起的算法题库。
 
 在这里你可以提交你遇到的奇葩面试题和常见面试题。
 
